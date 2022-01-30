@@ -23,7 +23,7 @@ run command on terminal in project folder
 composer install
 
 Step 6:
-Open Url in browser : http://localhost/employee-management/
+Open Url in browser : http://localhost/employe-management/
 Login Credentails
 Email : admin@mailinator.com
 Pass : 123456
