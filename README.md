@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Definition: Employee Management
 
@@ -10,7 +10,8 @@ Functional specification:
     i.  Department wise highest salary of employees.
     ii. Salary range wise employee count. [For Example: '0-50000'=> 3,'50001-100000'=>2,'100000+' => 1] [Note : Do it using single query]
     iii. Name and age of the youngest employee of each department.
-=======
+
+
 # employe-management
 
 Project Name : Employee Management
